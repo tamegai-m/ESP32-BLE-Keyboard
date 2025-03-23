@@ -2,7 +2,7 @@ name: ESP32 BLE Keyboard CI Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
 
 jobs:
