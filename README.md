@@ -1,6 +1,6 @@
 # ESP32 BLE Keyboard library
 
-![Build](https://github.com/tamegai-m/ESP32-BLE-Keyboard/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/${{ github.repository }}/actions/workflows/build.yml/badge.svg)
 
 Bluetooth HID Keyboard library for ESP32...
 
